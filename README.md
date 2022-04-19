@@ -19,34 +19,34 @@ https://www.kaggle.com/datasets/secareanualin/football-events?select=dictionary.
 
 
 
-###Dataset for results and expected goals per game for clubs in different leagues
+Dataset for results and expected goals per game for clubs in different leagues
 https://www.kaggle.com/datasets/slehkyi/extended-football-stats-for-european-leagues-xg?select=understat_per_game.csv
 
 
 
-###Detailed premier league stats from various season
+Detailed premier league stats from various season
 https://www.kaggle.com/datasets/zaeemnalla/premier-league?select=stats.csv
 
 
 
-###Football manager dataset (contains a collection of players and their attributes, such as age, position, club, nationality, value, wage, all player attribute components, etc.)
+Football manager dataset (contains a collection of players and their attributes, such as age, position, club, nationality, value, wage, all player attribute components, etc.)
 
 https://www.kaggle.com/datasets/ktyptorio/football-manager-2020
 
 
 
-###Premier league result history archive
+Premier league result history archive
 
 https://www.livesport.com/uk/football/england/premier-league/archive/
 
 
 
-###Huge collection of results and stats for both players and teams across multiple leagues and years. Includes player ratings.
+Huge collection of results and stats for both players and teams across multiple leagues and years. Includes player ratings.
 
 https://www.whoscored.com/Statistics
 
 
 
-###Player Transfer History
+Player Transfer History
 
 https://github.com/ewenme/transfers/tree/master/data
